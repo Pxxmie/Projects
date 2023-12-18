@@ -21,7 +21,7 @@ I will create a simple pipeline with two stages build and test.
 - Once the project is created, navigate to the project's main page.
 - Click on the "+" icon in the bar and select "New file.”
 
-    
+    ![Alt text](<images/Untitled 2.png>)
 
 - Enter a file name, for example, **`.gitlab-ci.yml`**.
 
@@ -47,7 +47,7 @@ I will create a simple pipeline with two stages build and test.
 
     ![Alt text](<images/Untitled 5.png>)
 
-The script in the "build the car" job creates a directory named "build," changes into that directory, and creates a file named "car.txt." It then writes "chassis," "engine," and "wheels" to the "car.txt" file, with each **`echo`** command overwriting the previous content. As a result, after the script is executed, "car.txt" contains only the last line, which is "wheels."
+- The script in the "build the car" job creates a directory named "build," changes into that directory, and creates a file named "car.txt." It then writes "chassis," "engine," and "wheels" to the "car.txt" file, with each **`echo`** command overwriting the previous content. As a result, after the script is executed, "car.txt" contains only the last line, which is "wheels."
 
 ### Step 3: Adding test job
 

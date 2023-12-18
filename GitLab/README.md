@@ -1,4 +1,4 @@
-# GitLab - Build and Test pipeline
+# GitLab - CI/CD pipeline
 
 Using GitLab, I will be creating a project which I am simulating a simple car assembly process with a build and test pipeline.
 

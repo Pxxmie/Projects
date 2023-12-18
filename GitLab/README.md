@@ -8,8 +8,9 @@ I will create a simple pipeline with two stages build and test.
 
 - Create/ log into your GitLab account.
 - Click on new project on the top right side of your homepage followed by create blank project.
-
-    ![Alt text](images/Untitled.png)
+  
+    ![Alt text](image.png)
+  
 
 - Give your project a name and click create project.
 
@@ -20,7 +21,7 @@ I will create a simple pipeline with two stages build and test.
 - Once the project is created, navigate to the project's main page.
 - Click on the "+" icon in the bar and select "New file.”
 
-    ![Alt text](<images/Untitled 2.png>)
+    
 
 - Enter a file name, for example, **`.gitlab-ci.yml`**.
 

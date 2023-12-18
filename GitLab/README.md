@@ -9,8 +9,7 @@ I will create a simple pipeline with two stages build and test.
 - Create/ log into your GitLab account.
 - Click on new project on the top right side of your homepage followed by create blank project.
   
-    ![Alt text](image.png)
-  
+    ![Alt text](images/image.png)
 
 - Give your project a name and click create project.
 

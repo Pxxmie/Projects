@@ -7,7 +7,7 @@ In this project, I created a simple web application using JavaScript and deploye
 
 **Repository Link**
 
-[Link to Docker and Kubernetes project](https://github.com/Pxxmie/Projects/tree/main/Docker-K8)
+[Link to Docker and Kubernetes project](https://github.com/Pxxmie/Projects/tree/main/Docker-K8-deploy-web-app)
 
 
 ### AWS EC2, VPC Provisioning with Terraform
@@ -18,4 +18,4 @@ In this project, I provisioned an Nginx web server on an AWS EC2 instance using 
 
 **Repository Link**
 
-[Link to AWS EC2, VPC provisioning with Terraform project](https://github.com/Pxxmie/Projects/tree/main/Terraform-AWS)
+[Link to AWS EC2, VPC provisioning with Terraform project](https://github.com/Pxxmie/Projects/tree/main/Terraform-ec2-deploy-nginx)
